@@ -128,18 +128,3 @@ Connection closed.
 ✅ Add authentication for secure command execution.  
 ✅ Add support for custom shell environments.  
 ✅ Display detailed error messages for failed commands.  
-
----
-
-## 🏆 **Author**  
-**[Suryadipta Das]**  
-- **Email:** suryadiptadas.2020@gmail.com   
-
----
-
-## 🌟 **Feedback**  
-Feel free to raise an issue or submit a pull request if you'd like to contribute!  
-
----
-
-Let me know if you'd like to adjust anything! 😎
