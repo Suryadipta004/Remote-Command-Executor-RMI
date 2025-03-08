@@ -46,7 +46,7 @@ javac *.java
 ### ✅ **2. Start the RMI Registry**  
 - Open a terminal and run:  
 ```bash
-rmiregistry &
+rmiregistry
 ```
 
 ---
